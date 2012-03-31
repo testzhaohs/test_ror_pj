@@ -9,4 +9,8 @@ class MyClass
 
   def m_2
   end
+
+  # add by breach [ b1 ]
+  def m_1
+  end
 end
