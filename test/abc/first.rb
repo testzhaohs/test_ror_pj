@@ -3,3 +3,7 @@ module MyModule
     puts "Hello"
   end
 end
+
+class MyClass
+  include MyModule
+end
