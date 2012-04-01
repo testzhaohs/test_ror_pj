@@ -17,4 +17,8 @@ class MyClass
   # add by [b1]
   def m_3
   end
+
+  def m_4
+    puts "lalal"
+  end
 end
