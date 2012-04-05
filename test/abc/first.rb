@@ -19,6 +19,8 @@ class MyClass
   end
 
   def m_4
-    puts "lalal"
+    puts "lalal from bb1"
+    puts "add by bb2"
   end
+
 end
