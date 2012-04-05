@@ -20,5 +20,6 @@ class MyClass
 
   def m_4
     puts "lalal kkkkkkkkkkkkkkkkk"
+    puts "add one"
   end
 end
